@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "sample": {
+      "command": "node",
+      "args": [
+        "< your path>/build/index.js"
+      ]
+    }
+  }
+}
